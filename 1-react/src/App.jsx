@@ -1,6 +1,6 @@
 const App = () => (
-    <div className="Page">
-        <div className="ProductPage">
+    <div className="ProductPage">
+        <div className="Page">
             <header>
                 <h1>메뉴목록</h1>
             </header>
