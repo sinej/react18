@@ -1,0 +1,1 @@
+export const Button = () => <button type="submit" className="Button brand">주문하기</button>
